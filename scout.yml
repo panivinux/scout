@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: efnaranjo/scout
+  IMAGE_NAME: panivinux/scout
   SHA: ${{ github.sha }}
 
 jobs:
